@@ -432,4 +432,5 @@ export const beds = [
   { id: "bed-431", crop: "Kale 430", dryLine: 44 },
   { id: "bed-432", crop: "Mint 431", dryLine: 40 },
   { id: "bed-433", crop: "Thyme 432", dryLine: 32 },
+  { id: "bed-434", crop: "Tomato 433", dryLine: 45 },
 ];
