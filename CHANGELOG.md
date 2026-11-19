@@ -7,3 +7,4 @@
 - 2026-11-18 15:03 — Review the latest screen changes
 - 2026-11-18 16:17 — Adjust spacing in the layout
 - 2026-11-18 17:26 — Refine the main screen copy
+- 2026-11-19 13:53 — Update the status labels
