@@ -14,3 +14,4 @@
 - 2026-11-24 09:30 — Fix a small layout overlap
 - 2026-11-24 12:00 — Clean up unused styles
 - 2026-11-24 14:24 — Simplify the header wording
+- 2026-11-24 15:56 — Improve loading state copy
