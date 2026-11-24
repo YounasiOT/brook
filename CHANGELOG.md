@@ -12,3 +12,4 @@
 - 2026-11-20 17:09 — Clarify form helper text
 - 2026-11-23 15:48 — Update settings descriptions
 - 2026-11-24 09:30 — Fix a small layout overlap
+- 2026-11-24 12:00 — Clean up unused styles
