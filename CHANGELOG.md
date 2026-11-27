@@ -18,3 +18,4 @@
 - 2026-11-26 10:17 — Tighten validation messages
 - 2026-11-26 14:22 — Update project notes
 - 2026-11-26 17:32 — Polish button labels
+- 2026-11-27 17:01 — Adjust spacing in the layout
